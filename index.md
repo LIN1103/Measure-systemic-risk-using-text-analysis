@@ -2,7 +2,7 @@
 
 *Yi Fang,  Hao Lin,  Liping Lu*
 
-> :bulb: *The images below may be so large that they cannot be displayed completely right away. Please be patient if necessary. Alternatively, you can download any of the images by a right-click.*
+> :bulb: The images below may be so large that they cannot be displayed completely right away. Please be patient if necessary. Alternatively, you can download any of the images by a right-click.
 
 ## Figure 5
 
