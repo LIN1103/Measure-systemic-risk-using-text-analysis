@@ -3,50 +3,40 @@
 *Yi Fang,  Hao Lin,  Liping Lu*
 
 ### Figure 5
+
+**Bank network in China in 2021.** 
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./Figure_5.png" width = "75%" alt=""/>
-    <br/>
-    <div style="text-align:justify;text-justify:inter-ideograph; 
-    color: #000000; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color  : #6699CC;
-    padding: 2px;">
-    <b>Figure 5. Bank network in China in 2021.</b>
-  	</div>
 </center>
 
+[Click here to download Figure 5.](./Figure_5.png)
+
 ### Figure 6
+
+**Annual inter-bank correlation heat maps.** 
+
+#### a. 2000-2013
+
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./Figure_6a.png" width = "75%" alt=""/>
-    <br/>
-    <div style="text-align:justify;text-justify:inter-ideograph; 
-    color: #000000; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color  : #6699CC;
-    padding: 2px;">
-    <b>Figure 6. Annual inter-bank correlation heat maps.</b>
-    <br / > a. 2000-2013
-  	</div>
-  </center>
-  
-  <center>
+</center>
+
+[Click here to download Figure 6a.](./Figure_6a.png)
+
+#### b. 2014-2021
+
+<center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
     src="./Figure_6b.png" width = "75%" alt=""/>
-    <br/>
-    <div style="text-align:justify;text-justify:inter-ideograph; 
-    color: #000000; border-bottom: 1px solid #d9d9d9;
-    display: inline-block;
-    color  : #6699CC;
-    padding: 2px;">
-    <b>Figure 6. Annual inter-bank correlation heat maps.</b>
-    <br / > b. 2014-2021
-  	</div>
 </center>
+
+[Click here to download Figure 6b.](./Figure_6b.png)
 
 ### Table 1 
 
