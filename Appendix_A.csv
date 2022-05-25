@@ -1,0 +1,717 @@
+﻿Index,English Name,Chinese Name,Label,Type
+0,Industrial and Commercial Bank of China ,工商银行,B0,0
+1,Agricultural Bank of China ,农业银行,B1,0
+2,Bank of China ,中国银行,B2,0
+3,China Construction Bank,建设银行,B3,0
+4,Bank of Communications ,交通银行,B4,0
+5,Postal Savings Bank of China ,邮政储蓄银行,B5,0
+6,China Citic Bank,中信银行,B6,1
+7,China Everbright Bank ,光大银行,B7,1
+8,China Merchants Bank ,招商银行,B8,1
+9,Shanghai Pudong Development Bank,浦东发展银行,B9,1
+10,China Minsheng Banking Corporation Limited,民生银行,B10,1
+11,Hua Xia Bank,华夏银行,B11,1
+12,Ping An Bank ,平安银行,B12,1
+13,Industrial Bank ,兴业银行,B13,1
+14,China Guangfa Bank ,广发银行,B14,1
+15,China Bohai Bank ,渤海银行,B15,1
+16,China Zheshang Bank ,浙商银行,B16,1
+17,Evergrowing Bank ,恒丰银行,B17,1
+18,Bank of Beijing ,北京银行,B18,2
+19,Bank of Tianjin ,天津银行,B19,2
+20,Bank of Hebei ,河北银行,B20,2
+21,Bank of Baoding ,保定银行,B21,2
+22,Bank of Cangzhou ,沧州银行,B22,2
+23,Bank of Chengde ,承德银行,B23,2
+24,Bank of Handan ,邯郸银行,B24,2
+25,Bank of Hengshui ,衡水银行,B25,2
+26,Bank of Langfang ,廊坊银行,B26,2
+27,Bank of Qinhuangdao ,秦皇岛银行,B27,2
+28,Bank of Tangshan ,唐山银行,B28,2
+29,Bank of Xingtai ,邢台银行,B29,2
+30,Bank of Zhangjiakou ,张家口银行,B30,2
+31,Jinshang Bank ,晋商银行,B31,2
+32,Bank of Inner Mongolia,内蒙古银行,B32,2
+33,Ordos Bank,鄂尔多斯银行,B33,2
+34,Bank of Wuhai,乌海银行,B34,2
+35,Shengjing Bank ,盛京银行,B35,2
+36,Bank of Jinzhou ,锦州银行,B36,2
+37,Bank of Anshan ,鞍山银行,B37,2
+38,Bank of Benxi ,本溪银行,B38,2
+39,Bank of Chaoyang ,朝阳银行,B39,2
+40,Bank of Dandong ,丹东银行,B40,2
+41,Bank of Fushun ,抚顺银行,B41,2
+42,Bank of Fuxin ,阜新银行,B42,2
+43,Bank of Huludao ,葫芦岛银行,B43,2
+44,Bank of Liaoyang ,辽阳银行,B44,2
+45,Bank of Panjin ,盘锦银行,B45,2
+46,Bank of Tieling ,铁岭银行,B46,2
+47,Yingkou Coastal Bank ,营口沿海银行,B47,2
+48,Bank of Yingkou ,营口银行,B48,2
+49,Bank of Jilin ,吉林银行,B49,2
+50,Harbin Bank ,哈尔滨银行,B50,2
+51,Longjiang Bank ,龙江银行,B51,2
+52,Bank of Shanghai ,上海银行,B52,2
+53,Bank of Jiangsu,江苏银行,B53,2
+54,Bank of Nanjing ,南京银行,B54,2
+55,Bank of Suzhou,苏州银行,B55,2
+56,Jiangsu Changjiang Commercial Bank ,江苏长江商业银行,B56,2
+57,Bank of Hangzhou ,杭州银行,B57,2
+58,Bank of Huzhou ,湖州银行,B58,2
+59,Bank of Jiaxing,嘉兴银行,B59,2
+60,Bank of Jinhua,金华银行,B60,2
+61,Bank of Shaoxing ,绍兴银行,B61,2
+62,Bank of Taizhou ,台州银行,B62,2
+63,Bank of Wenzhou,温州银行,B63,2
+64,Zhejiang Chouzhou Commercial Bank,浙江稠州商业银行,B64,2
+65,Zhejiang Mintai Commercial Bank,浙江民泰商业银行,B65,2
+66,Zhejiang Tailong Commercial Bank,浙江泰隆商业银行,B66,2
+67,Huishang Bank,徽商银行,B67,2
+68,Fujian Haixia Bank,福建海峡银行,B68,2
+69,Bank of Quanzhou ,泉州银行,B69,2
+70,Jiangxi Bank ,江西银行,B70,2
+71,Bank of Ganzhou ,赣州银行,B71,2
+72,Bank of Jiujiang ,九江银行,B72,2
+73,Bank of Shangrao,上饶银行,B73,2
+74,Qilu Bank ,齐鲁银行,B74,2
+75,Dezhou Bank ,德州银行,B75,2
+76,Dongying Bank ,东营银行,B76,2
+77,Bank of Jining ,济宁银行,B77,2
+78,Laishang Bank ,莱商银行,B78,2
+79,Linshang Bank ,临商银行,B79,2
+80,Qi Shang Bank ,齐商银行,B80,2
+81,Bank of Rizhao ,日照银行,B81,2
+82,Bank of Taian ,泰安银行,B82,2
+83,Weihai City Commercial Bank ,威海市商业银行,B83,2
+84,Bank of Weifang ,潍坊银行,B84,2
+85,Yantai Bank ,烟台银行,B85,2
+86,Zaozhuang Bank ,枣庄银行,B86,2
+87,Zhongyuan Bank,中原银行,B87,2
+88,Bank of Zhengzhou,郑州银行,B88,2
+89,Bank of Pingdingshan,平顶山银行,B89,2
+90,Bank of Luoyang,洛阳银行,B90,2
+91,"Bank of China Travel Service Co., Ltd. Jiaozuo",焦作中旅银行,B91,2
+92,Huarong Xiangjiang Bank,华融湘江银行,B92,2
+93,Bank of Changsha,长沙银行,B93,2
+94,Hankou Bank,汉口银行,B94,2
+95,Hubei Bank,湖北银行,B95,2
+96,Bank of Guangzhou,广州银行,B96,2
+97,Bank of Dongguan ,东莞银行,B97,2
+98,Guangdong Huaxing Bank,广东华兴银行,B98,2
+99,Guangdong Nanyue Bank ,广东南粤银行,B99,2
+100,China Resources Bank of Zhuhai ,珠海华润银行,B100,2
+101,Guangxi Beibu Gulf Bank,广西北部湾银行,B101,2
+102,Guilin Bank ,桂林银行,B102,2
+103,Bank of Liuzhou ,柳州银行,B103,2
+104,Bank of Hainan ,海南银行,B104,2
+105,Chongqing Three Gorges Bank,重庆三峡银行,B105,2
+106,Bank of Chongqing ,重庆银行,B106,2
+107,Bank of Chengdu ,成都银行,B107,2
+108,Bank of Dazhou ,达州银行,B108,2
+109,Great Wall West China Bank ,长城华西银行,B109,2
+110,Leshan City Commercial Bank,乐山市商业银行,B110,2
+111,Luzhou Bank,泸州银行,B111,2
+112,Mianyang City Commercial Bank,绵阳市商业银行,B112,2
+113,Sichuan Tianfu Bank,四川天府银行,B113,2
+114,Suining Bank ,遂宁银行,B114,2
+115,Yaan City Commercial Bank,雅安市商业银行,B115,2
+116,Yibin City Commercial Bank,宜宾市商业银行,B116,2
+117,Bank of Zigong ,自贡银行,B117,2
+118,Bank of Guiyang,贵阳银行,B118,2
+119,Bank of Guizhou,贵州银行,B119,2
+120,Fudian Bank ,富滇银行,B120,2
+121,Qujing City Ccommercial Bank ,曲靖市商业银行,B121,2
+122,Yunnan Hongta Bank ,云南红塔银行,B122,2
+123,Bank of Tibet,西藏银行,B123,2
+124,The Bank of Xi’An,西安银行,B124,2
+125,Chang’An Bank,长安银行,B125,2
+126,Bank of Gansu ,甘肃银行,B126,2
+127,Bank of Lanzhou ,兰州银行,B127,2
+128,Bank of Qinghai ,青海银行,B128,2
+129,Bank of Ningxia ,宁夏银行,B129,2
+130,Bank of Shizuishan ,石嘴山银行,B130,2
+131,Bank of Urumqi,乌鲁木齐银行,B131,2
+132,Bank of Kunlun,昆仑银行,B132,2
+133,Hami City Commercial Bank,哈密市商业银行,B133,2
+134,Bank of Korla,库尔勒银行,B134,2
+135,Xinjiang Huihe Bank,新疆汇和银行,B135,2
+136,Bank of Dalian ,大连银行,B136,2
+137,Bank of Ningbo,宁波银行,B137,2
+138,Ningbo Donghai Bank ,宁波东海银行,B138,2
+139,Ningbo Commerce Bank,宁波通商银行,B139,2
+140,Xiamen Bank,厦门银行,B140,2
+141,Xiamen International Bank ,厦门国际银行,B141,2
+142,Bank of Qingdao ,青岛银行,B142,2
+143,Xinjiang Bank,新疆银行,B143,2
+144,Mengshang Bank,蒙商银行,B144,2
+145,Sichuan Bank ,四川银行,B145,2
+146,Liaoshen Bank ,辽沈银行,B146,2
+147,Shanxi Bank ,山西银行,B147,2
+148,Kincheng Bank of Tianjin ,金城银行,B148,9
+149,Shanghai Huarui Bank ,华瑞银行,B149,9
+150,Zhejiang E-Commerce Bank ,网商银行,B150,9
+151,Wenzhou Minshang Bank,民商银行,B151,9
+152,Webank,前海微众银行,B152,9
+153,Bank of Sanxiang,三湘银行,B153,9
+154,Chongqing Fumin Bank ,富民银行,B154,9
+155,Sichuan Xw Bank,新网银行,B155,9
+156,Beijing Zhongguancun Bank,北京中关村银行,B156,9
+157,Jilin Yillion Bank ,吉林亿联银行,B157,9
+158,"Wuhanzbank Co., Ltd.",众邦银行,B158,9
+159,Fujian Onebank,福建华通银行,B159,9
+160,Weihai Blue Ocean Bank ,威海蓝海银行,B160,9
+161,Jiangsu Suning Bank ,江苏苏宁银行,B161,9
+162,Meizhou Hakka Bank ,梅州客商银行,B162,9
+163,Anhui Xin’An Bank ,安徽新安银行,B163,9
+164,Newup Bank of Liaoning ,辽宁振兴银行,B164,9
+165,Jiangxi Yumin Bank ,江西裕民银行,B165,9
+166,Wuxi Xishang Bank ,无锡锡商银行,B166,9
+167,Beijing Rural Commercial Bank ,北京农村商业银行,B167,5
+168,Beijing Miyun Hsbc Rural Bank,北京密云汇丰村镇银行,B168,3
+169,Beijing Yanqing Village Bank,北京延庆村镇银行,B169,3
+170,Beijing Daxing Huaxia Rural Bank,北京大兴华夏村镇银行,B170,3
+171,Beijing Shunyi Yinzuo Rural Bank,北京顺义银座村镇银行,B171,3
+172,Tianjin Rural Commercial Bank ,天津农村商业银行,B172,5
+173,Tianjin Binhai Rural Commercial Bank,天津滨海农村商业银行,B173,5
+174,Tianjin Huaming Village Bank,天津华明村镇银行,B174,3
+175,Tianjin Wuqing Country Bank,天津武清村镇银行,B175,3
+176,Tianjin Binhai Jianghuai County Bank,天津滨海江淮村镇银行,B176,3
+177,Tianjin Binhai Deshang County Bank ,天津滨海德商村镇银行,B177,3
+178,Hebei Province Rural Credit Cooperatives Association,河北省农村信用社联合社,B178,6
+179,Hebei Luanping Rural Commercial Bank,河北滦平农村商业银行,B179,5
+180,Hebei Xingtai Rural Commercial Bank ,河北邢台农村商业银行,B180,5
+181,Shijiazhuang Huirong Rural Cooperative Bank,石家庄汇融农村合作银行,B181,4
+182,Chengde Suburban Rural Credit Cooperative Union,承德市郊区农村信用合作联社,B182,6
+183,Anping Huimin Village Bank ,安平惠民村镇银行,B183,3
+184,Shenzhou Fengyuan County Bank ,深州丰源村镇银行,B184,3
+185,Wuan Rural Bank ,武安村镇银行,B185,3
+186,Xianghe Yimin Village Bank,香河益民村镇银行,B186,3
+187,Town Bank of Xinda Zhangbei ,张北信达村镇银行,B187,3
+188,Yu Xian Yin Tai Rural Bank,蔚县银泰村镇银行,B188,3
+189,Tangxian Huize County Bank,唐县汇泽村镇银行,B189,3
+190,Xiongxian Fengyuan County Bank,雄县丰源村镇银行,B190,3
+191,Qinghe Jinnong Village Bank,清河金农村镇银行,B191,3
+192,Ningjin Minsheng Rural Banking Corporation Limited,宁晋民生村镇银行,B192,3
+193,Yuanshi Xinrong Town Bank ,元氏信融村镇银行,B193,3
+194,Pingshan Xibaipo Jiyin County Bank ,平山西柏坡冀银村镇银行,B194,3
+195,Boc Fullerton Community Bank ,中银富登村镇银行,B195,3
+196,Shanxi Rural Credit Union,山西省农村信用社联合社,B196,6
+197,Shanxi Wutai Rural Commercial Bank,山西五台农村商业银行,B197,5
+198,Shanxi  Shouyang  Rural  Commercial Bank,山西寿阳农村商业银行,B198,5
+199,Shanxi Yuci Rural Commercial Bank ,山西榆次农村商业银行,B199,5
+200,Shanxi Jiexiu Rural Commercial Bank ,山西介休农村商业银行,B200,5
+201,Shanxi Lingshi Rural Commercial Bank ,山西灵石农村商业银行,B201,5
+202,Jinzhong Kaifaqu Rural Commercial Bank,晋中开发区农村商业银行,B202,5
+203,Shanxi  Yuncheng  Rural  Commercial Bank,山西运城农村商业银行,B203,5
+204,Shanxi  Hejin  Rural  Commercial  Bank ,山西河津农村商业银行,B204,5
+205,Taiyuan Rural Commercial Bank ,太原农村商业银行,B205,5
+206,Qingxu Jinshang Country Bank,清徐晋商村镇银行,B206,3
+207,Wanrongxian Huimin Village and Town Bank,万荣县汇民村镇银行,B207,3
+208,Shuozhoucity Shuochengqu Mengyin Rural Bank,朔州市朔城区蒙银村镇银行,B208,3
+209,Yuxian Huimin Village and Town Bank,盂县汇民村镇银行,B209,3
+210,Zezhou Spd Rural Bank ,泽州浦发村镇银行,B210,3
+211,Lingchuan Taihang Rural Bank ,陵川县太行村镇银行,B211,3
+212,Inner Mongolia Shanba Rural Commercial Bank,内蒙古陕坝农村商业银行,B212,5
+213,Erdos Rural Commercial Bank,鄂尔多斯农村商业银行,B213,5
+214,Alxa  Rural Commercial Bank,阿拉善农村商业银行,B214,5
+215,Bayannaoer Hetao Rural Commercial Bank,巴彦淖尔河套农村商业银行,B215,5
+216,Baotou Rural Commercial Bank,包头农村商业银行,B216,5
+217,Inner Mongolia Etuokeqianqi Rural Commercial Bank,内蒙古鄂托克前旗农村商业银行,B217,5
+218,Erenhot Rural Cooperative Bank,二连浩特农村合作银行,B218,4
+219,Inner Mongolia Rural Credit Union,内蒙古自治区农村信用社联合社,B219,6
+220,Dengkou County Rural Credit Cooperative Association,磴口县农村信用合作联社,B220,6
+221,Keshketun Rural and Village Bank,克什克腾农银村镇银行,B221,3
+222,Liaoning Province Rural Credit Union,辽宁省农村信用社联合社,B222,6
+223,Shenyang Rural Commercial Bank,沈阳农村商业银行,B223,5
+224,Anshan Rural Commercial Bank,鞍山农村商业银行,B224,5
+225,Benxi Urban Rural Credit Cooperative Association,本溪市市区农村信用合作联社,B225,6
+226,Liaoning Xingcheng Rural Commercial Bank,辽宁兴城农村商业银行,B226,5
+227,Shenyang Yu Hong Yong 'An Village Bank,沈阳于洪永安村镇银行,B227,3
+228,Tieling Rural Commercial Village Bank,铁岭农商村镇银行,B228,3
+229,Tieling New Star Village Bank,铁岭新星村镇银行,B229,3
+230,Changchun  Rural  Commercial  Bank ,长春农村商业银行,B230,5
+231,Changchun Development Rural Commercial Bank,长春发展农村商业银行,B231,5
+232,Jilin  Jiutai Rural Commercial Bank,吉林九台农村商业银行,B232,5
+233,Jilin Shuangyang Rural Commercial Bank,吉林双阳农村商业银行,B233,5
+234,Jilin Jiaohe Rural Commercial Bank,吉林蛟河农村商业银行,B234,5
+235,Yanbian Rural Commercial Bank,延边农村商业银行,B235,5
+236,Jilin Hunchun Rural Commercial Bank,吉林珲春农村商业银行,B236,5
+237,Jilin  Longjing  Rural  Commercial  Bank,吉林龙井农村商业银行,B237,5
+238,Jilin Gongzhuling Rural Commercial Bank,吉林公主岭农村商业银行,B238,5
+239,Jilin Chuncheng Rural Commercial Bank,吉林春城农村商业银行,B239,5
+240,Liaoyuan Rural Commercial Bank ,辽源农村商业银行,B240,5
+241,Jilin Province Rural Credit Union,吉林省农村信用社联合社,B241,6
+242,Nong'An Bob Rural Bank,农安北银村镇银行,B242,3
+243,Sunshine Village Bank of Qianguo County,前郭县阳光村镇银行,B243,3
+244,Dunhua Jiangnan Village Bank,敦化江南村镇银行,B244,3
+245,Lishu County Yanjia Village Baixin Rural Mutual Funds,梨树县闫家村百信农村资金互助社,B245,7
+246,Daxinganling Rural Commercial Bank ,大兴安岭农村商业银行,B246,5
+247,Hei He Rural Commercial Bank,黑河农村商业银行,B247,5
+248,Harbin Rural Commercial Bank,哈尔滨农村商业银行,B248,5
+249,Heilongjiang Rural Credit Cooperatives Association,黑龙江省农村信用社联合社,B249,6
+250,Bayan Rongxing Village Bank,巴彦融兴村镇银行,B250,3
+251,Shanghai Rural Commercial Bank ,上海农村商业银行,B251,5
+252,Shanghai Chongming Hunongshang Village Bank,上海崇明沪农商村镇银行,B252,3
+253,Shanghai Fengxian Spd Rural Bank,上海奉贤浦发村镇银行,B253,3
+254,"Shanghai Songjiang Minsheng Rural 
+Banking Corp.,Ltd",上海松江民生村镇银行,B254,3
+255,Shanghai Minhang Shangyin Village Bank,上海闵行上银村镇银行,B255,3
+256,Shanghai Jiading Minsheng Rural Banking Corporation ,上海嘉定民生村镇银行,B256,3
+257,Shanghai Jinshan Huimin Village Bank,上海金山惠民村镇银行,B257,3
+258,Jiangsu Xuyi Rural Commercial Bank,江苏盱眙农村商业银行,B258,5
+259,Jiangsu Jiangyin Rural Commercial Bank,江苏江阴农村商业银行,B259,5
+260,Jiangsu Zhangjiagang Rural Commercial Bank,江苏张家港农村商业银行,B260,5
+261,Jiangsu Jiangdu Rural Commercial Bank ,江苏江都农村商业银行,B261,5
+262,Jiangsu Changshu Rural Commercial Bank ,江苏常熟农村商业银行,B262,5
+263,Jiangsu Rugao Rural Commercial Bank ,江苏如皋农村商业银行,B263,5
+264,Jiangsu Yangzhou Rural Commercial Bank ,江苏扬州农村商业银行,B264,5
+265,Jiangsu Haimen Rural Commercial Bank ,江苏海门农村商业银行,B265,5
+266,Jiangsu Sheyang Rural Commercial Bank,江苏射阳农村商业银行,B266,5
+267,Jiangsu Haian Rural Commercial Bank ,江苏海安农村商业银行,B267,5
+268,Jiangsu Zhenjiang Rural Commercial Bank ,江苏镇江农村商业银行,B268,5
+269,Jiangsu Siyang Rural Commercial Bank ,江苏泗阳农村商业银行,B269,5
+270,Jiangsu Xinghua Rural Commercial Bank ,江苏兴化农村商业银行,B270,5
+271,Jiangsu Yizheng Rural Commercial Bank ,江苏仪征农村商业银行,B271,5
+272,Jiangsu Gaochun Rural Commercial Bank ,江苏高淳农村商业银行,B272,5
+273,Jiangsu Huaian Rural Commercial Bank ,江苏淮安农村商业银行,B273,5
+274,Jiangsu Qidong Rural Commercial Bank ,江苏启东农村商业银行,B274,5
+275,Jiangsu Shuyang Rural Commercial Bank ,江苏沭阳农村商业银行,B275,5
+276,Jiangsu Rudong Rural Commercial Bank ,江苏如东农村商业银行,B276,5
+277,Jiangsu Lishui Rural Commercial Bank,江苏溧水农村商业银行,B277,5
+278,Jiangsu Suining Rural Commercial Bank ,江苏睢宁农村商业银行,B278,5
+279,Xuzhou Rural Commercial Bank,徐州农村商业银行,B279,5
+280,Jiangsu Suzhou Rural Commercial Bank ,江苏苏州农村商业银行,B280,5
+281,Jiangsu Minfeng Rural Commercial Bank ,江苏民丰农村商业银行,B281,5
+282,Jiangsu Jiangnan Rural Commercial Bank ,江苏江南农村商业银行,B282,5
+283,Wuxi Rural Commercial Bank,无锡农村商业银行,B283,5
+284,Jiangsu Sihong Rural Commercial Bank ,江苏泗洪农村商业银行,B284,5
+285,Jiangsu Kunshan Rural Commercial Bank ,江苏昆山农村商业银行,B285,5
+286,Jiangsu Donghai Rural Commercial Bank ,江苏东海农村商业银行,B286,5
+287,Jiangsu Jiangyan Rural Commercial Bank ,江苏姜堰农村商业银行,B287,5
+288,Jiangsu Funing Rural Commercial Bank ,江苏阜宁农村商业银行,B288,5
+289,Jiangsu Zijin Rural Commercial Bank ,江苏紫金农村商业银行,B289,5
+290,Lianyungang Orient Rural Commercial Bank,连云港东方农村商业银行,B290,5
+291,Jiangsu Taicang Rural Commercial Bank ,江苏太仓农村商业银行,B291,5
+292,Jiangsu Jingjiang Rural Commercial Bank ,江苏靖江农村商业银行,B292,5
+293,Jiangsu Yixing Rura1 Commercial Bank ,江苏宜兴农村商业银行,B293,5
+294,Jiangsu Dafeng Rural Commercial Bank,江苏大丰农村商业银行,B294,5
+295,Jiangsu Rural Credit Union,江苏省农村信用社联合社,B295,6
+296,Liyang Spd Rural Bank,溧阳浦发村镇银行,B296,3
+297,Jiangsu Jiangning Bos Rural Bank,江苏江宁上银村镇银行,B297,3
+298,Jiangsu Tongzhou Chinese Mercantile County Bank,江苏通州华商村镇银行,B298,3
+299,Kunshan Lucheng County Bank ,昆山鹿城村镇银行,B299,3
+300,Jiangsu Shuyang Dongwu Rural Bank,江苏沭阳东吴村镇银行,B300,3
+301,Taizhou Jiangyan Xizhou County Bank ,泰州姜堰锡州村镇银行,B301,3
+302,Yixing Yangxian County Bank ,宜兴阳羡村镇银行,B302,3
+303,Jiangyin Spd Rural Bank,江阴浦发村镇银行,B303,3
+304,Huishan Mintai Rural Bank of Jiangsu,江苏惠山民泰村镇银行,B304,3
+305,Jiangsu Tongshan Xizhou Village Bank,江苏铜山锡州村镇银行,B305,3
+306,Suining Boc Fullerton Community Bank,睢宁中银富登村镇银行,B306,3
+307,Yangzhong Hengfeng Rural Bank,扬中恒丰村镇银行,B307,3
+308,Zhejiang Rural Credit Union,浙江省农村信用社联合社,B308,6
+309,Hangzhou United Rural Commercial Bank ,杭州联合农村商业银行,B309,5
+310,Zhejiang Xiaoshan Rural Commercial Bank,浙江萧山农村商业银行,B310,5
+311,Zhejiang Wenzhou Lucheng Rural Commercial Bank,浙江温州鹿城农村商业银行,B311,5
+312,Zhejiang Wenzhou Longwan Rural Commercial Bank,浙江温州龙湾农村商业银行,B312,5
+313,Zhejiang Ruian Rural Commercial Bank,浙江瑞安农村商业银行,B313,5
+314,Zhejiang Cangnan Rural Commercial Bank ,浙江苍南农村商业银行,B314,5
+315,Zhejiang Longgang Rural Commercial Bank ,浙江龙港农村商业银行,B315,5
+316,Zhejiang Hecheng Rural Commercial Bank,浙江禾城农村商业银行,B316,5
+317,Zhejiang Nanxun Rural Commercial Bank ,浙江南浔农村商业银行,B317,5
+318,Zhejiang Deqing Rural Commercial Bank ,浙江德清农村商业银行,B318,5
+319,Zhejiang Shaoxing Ruifeng Rural Commercial Bank,浙江绍兴瑞丰农村商业银行,B319,5
+320,Zhejiang Yiwu Rural Commercial Bank,浙江义乌农村商业银行,B320,5
+321,Zhejiang Yongkang Rural Commercial Bank ,浙江永康农村商业银行,B321,5
+322,Zhejiang Shengzhou Ruifeng Village Bank,浙江嵊州瑞丰村镇银行,B322,3
+323,Zhejiang Sanmen Yinzuo Rural Bank ,浙江三门银座村镇银行,B323,3
+324,Zhejiang Yiwu United Rural Bank ,浙江义乌联合村镇银行,B324,3
+325,Zhejiang Lin 'An Citic Village Bank,浙江临安中信村镇银行,B325,3
+326,Zhejiang Tonglu Hengfeng Village Bank,浙江桐庐恒丰村镇银行,B326,3
+327,Zhejiang Yueqing United Village Bank,浙江乐清联合村镇银行,B327,3
+328,Zhejiang Yongjia Hengsheng Village Bank,浙江永嘉恒升村镇银行,B328,3
+329,Zhejiang Wencheng North Yincun Bank,浙江文成北银村镇银行,B329,3
+330,Zhejiang Pinghu Icbc Rural Bank,浙江平湖工银村镇银行,B330,3
+331,Zhejiang Changxing United Rural Bank,浙江长兴联合村镇银行,B331,3
+332,Zhejiang Longyou Yishang Village Bank,浙江龙游义商村镇银行,B332,3
+333,Ruian Mayu Town Huimin Rural Mutual Funds Association,瑞安市马屿镇汇民农村资金互助社,B333,7
+334,Anhui Province Rural Credit Cooperatives Association,安徽省农村信用社联合社,B334,6
+335,Hefei Science ＆ Technology Rural Commercial Bank,合肥科技农村商业银行,B335,5
+336,Anhui Qianshan Rural Commercial Bank,安徽潜山农村商业银行,B336,5
+337,Anqing Rural Commercial Bank,安庆农村商业银行,B337,5
+338,Anhui Tongcheng Rural Commercial Bank ,安徽桐城农村商业银行,B338,5
+339,Anhui Taihu Rural Commercial Bank ,安徽太湖农村商业银行,B339,5
+340,Bengbu Rural Commercial Bank,蚌埠农村商业银行,B340,5
+341,Bozhou Yaodu Rural Commercial Bank ,亳州药都农村商业银行,B341,5
+342,Anhui Feixi Rural Commercial Bank ,安徽肥西农村商业银行,B342,5
+343,Chaohu Rural Commercial Bank ,巢湖农村商业银行,B343,5
+344,Anhui Lujiang Rural Commercial Bank ,安徽庐江农村商业银行,B344,5
+345,Chizhou Jiuhua Rural Commercial Bank,池州九华农村商业银行,B345,5
+346,Anhui Laian Rural Commercial Bank ,安徽来安农村商业银行,B346,5
+347,Fuyangyingdong Rural Commercial Bank ,阜阳颍东农村商业银行,B347,5
+348,Huaibei Rural Commercial Bank,淮北农村商业银行,B348,5
+349,Anhui Maanshan Rural Commercial Bank,安徽马鞍山农村商业银行,B349,5
+350,Tongling Rural Commercial Bank ,铜陵农村商业银行,B350,5
+351,Wuhu Yangzi Rural Commercial Bank  ,芜湖扬子农村商业银行,B351,5
+352,Xuancheng Wannan Rural Commercial Bank ,宣城皖南农村商业银行,B352,5
+353,Anhui  Ningguo Rural Commercial Bank ,安徽宁国农村商业银行,B353,5
+354,Anhui Wuhe Yongtai Village Bank,安徽五河永泰村镇银行,B354,3
+355,Anhui Changfeng Keyuan Town Bank ,安徽长丰科源村镇银行,B355,3
+356,Jinzhai Hui Silver Village Bank,金寨徽银村镇银行,B356,3
+357,He Xian Xinhua Village and Township Bank,安徽和县新华村镇银行,B357,3
+358,Wuwei Huiyin Town Bank,无为徽银村镇银行,B358,3
+359,Jixi Nongying Village Bank,绩溪农银村镇银行,B359,3
+360,Fujian Rural Credit Cooperatives Association,福建省农村信用社联合社,B360,6
+361,Fujian Fuzhou Rural Commercial Bank ,福建福州农村商业银行,B361,5
+362,Fujian Fuqing Huitong Rural Commercial Bank ,福建福清汇通农村商业银行,B362,5
+363,Quanzhou Rural Commercial Bank ,泉州农村商业银行,B363,5
+364,Fujian Nan An Rural Commercial Bank ,福建南安农村商业银行,B364,5
+365,"Anxi Minsheng Rural Banking Corp.,Ltd.",安溪民生村镇银行,B365,3
+366,Huian Zhongcheng Rural Bank ,惠安中成村镇银行,B366,3
+367,Fujian Zhangzhou Rural Commercial Bank ,福建漳州农村商业银行,B367,5
+368,Zhangpu Minsheng Rural Bank ,漳浦民生村镇银行,B368,3
+369,Nanjing Zhongcheng Rural Bank ,南靖中成村镇银行,B369,3
+370,Fujian Jianou Ruishi Rural Bank ,福建建瓯瑞狮村镇银行,B370,3
+371,Wuyishan Benfu Township Bank ,武夷山本富村镇银行,B371,3
+372,Guangze Red Erythrina Rural Bank ,光泽刺桐红村镇银行,B372,3
+373,Fu 'An Rural Credit Cooperative Union,福安市农村信用合作联社,B373,6
+374,Fujian Fuan Cqrc County Bank ,福建福安渝农商村镇银行,B374,3
+375,Jiang Xi Rural Credit Cooperative Union,江西省农村信用社联合社,B375,6
+376,Nanchang Rural Commercial Bank,南昌农村商业银行,B376,5
+377,Jiangxi Xinjian Rural Commercial Bank ,江西新建农村商业银行,B377,5
+378,Jingdezhen Rural Commercial Bank,景德镇农村商业银行,B378,5
+379,Xinyu Rural Commercial Bank,新余农村商业银行,B379,5
+380,Jiangxi Dexing Rural Commercial Bank ,江西德兴农村商业银行,B380,5
+381,Ji An Chouzhou Rural Bank,吉安稠州村镇银行,B381,3
+382,Rural Commercial Community Bank of Fuliang,浮梁农商村镇银行,B382,3
+383,Guixi Jiuyin County Bank,贵溪九银村镇银行,B383,3
+384,Weifang  Rural  Commercial  Bank,潍坊农村商业银行,B384,5
+385,Shandong Shouguang Rural Commercial Bank ,山东寿光农村商业银行,B385,5
+386,Shandong Tengzhou Rural Commercial Bank ,山东滕州农村商业银行,B386,5
+387,Shandong Yucheng Rural Commercial Bank ,山东禹城农村商业银行,B387,5
+388,Shandong  Laiwu  Rural  Commercial Bank ,山东莱芜农村商业银行,B388,5
+389,Shandong Guangrao Rural Commercial Bank,山东广饶农村商业银行,B389,5
+390,Heze  Rural  Commercial  Bank ,菏泽农村商业银行,B390,5
+391,Shandong Weihai Rural Commercial Bank ,山东威海农村商业银行,B391,5
+392,Shandong Rongcheng Rural Commercial Bank ,山东荣成农村商业银行,B392,5
+393,Shandong Longkou Rural Commercial Bank ,山东龙口农村商业银行,B393,5
+394,Yantai Rural Commercial Bank,烟台农村商业银行,B394,5
+395,Shandong Linzi Rural Commercial Bank ,山东临淄农村商业银行,B395,5
+396,Shandong Zouping Rural Commercial Bank ,山东邹平农村商业银行,B396,5
+397,Shandong Yanggu Rural Commercial Bank ,山东阳谷农村商业银行,B397,5
+398,Jinan Rural Commercial Bank,济南农村商业银行,B398,5
+399,Shandong Rural Credit Cooperatives Association,山东省农村信用社联合社,B399,6
+400,Zouping Spd Rural Bank,邹平浦发村镇银行,B400,3
+401,Guangrao Liangzou County Bank,广饶梁邹村镇银行,B401,3
+402,Jining High-Tech County Bank ,济宁高新村镇银行,B402,3
+403,Jining Rushang Rural Bank ;,济宁儒商村镇银行,B403,3
+404,Laiwu Zhujiang Rural Bank ,莱芜珠江村镇银行,B404,3
+405,Zhangqiu Qilu Village Bank ,章丘齐鲁村镇银行,B405,3
+406,Rushan Tianjiao Village Bank,乳山天骄村镇银行,B406,3
+407,Shandong Rongcheng Hsbc Rural Bank,山东荣成汇丰村镇银行,B407,3
+408,Shouguang Zrcb Country Bank,寿光张农商村镇银行,B408,3
+409,Gao Mi Hui Min Village Bank,高密惠民村镇银行,B409,3
+410,Penglai Minsheng Rural Banking ,蓬莱民生村镇银行,B410,3
+411,Henan Yichuan Rural Commercial Bank ,河南伊川农村商业银行,B411,5
+412,Sanmenxia Hubin Rural Commercial Bank ,三门峡湖滨农村商业银行,B412,5
+413,Shangqiu Chinese Mercantile Rural Commercial Bank ,商丘华商农村商业银行,B413,5
+414,Henan Jiyuan Rural Commercial Bank ,河南济源农村商业银行,B414,5
+415,Henan Xiuwu Rural Commercial Bank ,河南修武农村商业银行,B415,5
+416,Henan Lushi Rural Commercial Bank ,河南卢氏农村商业银行,B416,5
+417,Henan Xinzheng Rural Commercial Bank ,河南新郑农村商业银行,B417,5
+418,Henan Bianjing Rural Commercial Bank ,河南汴京农村商业银行,B418,5
+419,Henan Zhongmu Rural Commercial Bank ,河南中牟农村商业银行,B419,5
+420,Henan Taikang  Rural Commercial Bank ,河南太康农村商业银行,B420,5
+421,Sanmenxia Shanzhou Rural Commercial Bank,三门峡陕州农村商业银行,B421,5
+422,Henan Xunxian Rural Commercial Bank ,河南浚县农村商业银行,B422,5
+423,Henan Credit Union,河南省农村信用社联合社,B423,6
+424,Zhongmu Zhengyin Village Bank,中牟郑银村镇银行,B424,3
+425,Xinzheng Zhengyin Village Bank,新郑郑银村镇银行,B425,3
+426,Gongyi Spd Rural Bank ,巩义浦发村镇银行,B426,3
+427,Jia County Guangtian Village Bank,郏县广天村镇银行,B427,3
+428,Wu Zhi Sheyang Village Bank,武陟射阳村镇银行,B428,3
+429,Nanyang Country Bank,南阳村镇银行,B429,3
+430,Gushi Tianjiao Village Bank,固始天骄村镇银行,B430,3
+431,Xinyang Pearl River Village Bank,信阳珠江村镇银行,B431,3
+432,Wuhan Dongxihu Yangzi Village Bank ,武汉东西湖扬子村镇银行,B432,3
+433,Enshi Xingfu Country Bank,恩施兴福村镇银行,B433,3
+434,Hubei Hongan Changjiang Village Bank,湖北红安长江村镇银行,B434,3
+435,Qichun Zhongyin Fudeng Village Bank,蕲春中银富登村镇银行,B435,3
+436,Wuxue Zhongyin Fudeng Village Bank,武穴中银富登村镇银行,B436,3
+437,Zhong Xiang Minsheng Rural Bank,钟祥民生村镇银行,B437,3
+438,Jingshan Zhongyin Fudeng Village Bank,京山中银富登村镇银行,B438,3
+439,Hubei Suizhou Zengdu Hsbc Village Bank,湖北随州曾都汇丰村镇银行,B439,3
+440,Gucheng Boc Fullerton Community Bank ,谷城中银富登村镇银行,B440,3
+441,Rural Bank of Hubei Hanchuan Rural Bank,湖北汉川农银村镇银行,B441,3
+442,Yidu Minsheng Rural Banking Corporation ,宜都民生村镇银行,B442,3
+443,Xingshanbenfu Rural Bank,兴山本富村镇银行,B443,3
+444,Wuhan Jiangxia Minsheng Rural Banking,武汉江夏民生村镇银行,B444,3
+445,Wuhan Rural Commercial Bank ,武汉农村商业银行,B445,5
+446,Hubei Songzi Rural Commercial Bank,湖北松滋农村商业银行,B446,5
+447,Hubei Changyang Rural Commercial Bank,湖北长阳农村商业银行,B447,5
+448,Hubei Baokang Rural Commercial Bank,湖北保康农村商业银行,B448,5
+449,Hubei Suizhou Rural Commercial Bank,湖北随州农村商业银行,B449,5
+450,Hubei Province Rural Credit Cooperatives Association,湖北省农村信用社联合社,B450,6
+451,Hunan Yanling Rural Commercial Bank,湖南炎陵农村商业银行,B451,5
+452,Chaling Pufa Village Bank,茶陵浦发村镇银行,B452,3
+453,Xiangtan Rural Commercial Bank ,湘潭农村商业银行,B453,5
+454,Xiangxiang City Village Bank ,湘乡市村镇银行,B454,3
+455,Shaoshan Everbright Village Bank ,韶山光大村镇银行,B455,3
+456,Linwu Spd Rural Bank ,临武浦发村镇银行,B456,3
+457,Zixing Spd Rural Bank ,资兴浦发村镇银行,B457,3
+458,Qiyang Village Bank ,祁阳村镇银行,B458,3
+459,Xiangxi Changhang Village Bank ,湘西长行村镇银行,B459,3
+460,Changsha Rural Commercial Bank,长沙农村商业银行,B460,5
+461,Liuyang Rural Commercial Bank of Hunan,湖南浏阳农村商业银行,B461,5
+462,Hunan Rural Credit Union,湖南省农村信用社联合社,B462,6
+463,Guangdong Rural Credit Union,广东省农村信用社联合社,B463,6
+464,Guangzhou Rural Commercial Bank ,广州农村商业银行,B464,5
+465,Shantou Gulf Rural Commercial Bank ,汕头海湾农村商业银行,B465,5
+466,Guangdong Wengyuan Rural Commercial Bank ,广东翁源农村商业银行,B466,5
+467,Huizhou Rural Commercial Bank ,惠州农村商业银行,B467,5
+468,Shanwei Rural Commercial Bank ,汕尾农村商业银行,B468,5
+469,Dongguan Rural Commercial Bank ,东莞农村商业银行,B469,5
+470,Zhongshan Rural Commercial Bank ,中山农村商业银行,B470,5
+471,Guangdong Shunde Rural Commercial Bank ,广东顺德农村商业银行,B471,5
+472,Guangdong Nanhai Rural Commercial Bank ,广东南海农村商业银行,B472,5
+473,Foshan Rural Commercial Bank,佛山农村商业银行,B473,5
+474,Guangdong Qingyuan Rural Commercial Bank ,广东清远农村商业银行,B474,5
+475,Guangdong Sihui Rural Commercial Bank ,广东四会农村商业银行,B475,5
+476,Guangzhou Huadu Chouzhou Village Bank,广州花都稠州村镇银行,B476,3
+477,Guangzhou Conghua Liuyin Country Bank,广州从化柳银村镇银行,B477,3
+478,Guangzhou Panyu Xinhua Village and Township Bank ,广州番禺新华村镇银行,B478,3
+479,Dongguan　Changan Village Bank ,东莞长安村镇银行,B479,3
+480,Zhongshan Xiaolan County Bank ,中山小榄村镇银行,B480,3
+481,Sanshui Pearl River Rural Bank,三水珠江村镇银行,B481,3
+482,Huizhou Zhongkai Dongying County Bank,惠州仲恺东盈村镇银行,B482,3
+483,Heshan Pearl River Village Bank,鹤山珠江村镇银行,B483,3
+484,Meizhou Hakka County Bank,梅州客家村镇银行,B484,3
+485,Xingning Zhujiang Rural Bank,兴宁珠江村镇银行,B485,3
+486,Zhuhai Hengqin Village Bank,珠海横琴村镇银行,B486,3
+487,Dongyuan Taiye Village Bank,东源泰业村镇银行,B487,3
+488,Guangxi Rural Credit Union,广西壮族自治区农村信用社联合社,B488,6
+489,"Nanning Urban District Rural Credit 
+Union",南宁市区农村信用合作联社,B489,6
+490,Nanning Yongning Rural Credit Union,南宁市邕宁区农村信用合作联社,B490,6
+491,Guangxi Xingan  Rural Cooperative Bank,广西兴安农村合作银行,B491,4
+492,Guangxi Yangshuo  Rural Cooperative Bank,广西阳朔农村合作银行,B492,4
+493,Wuzhou Urban Distyit Rural Credit Union,梧州市区农村信用合作联社,B493,6
+494,Guangxi Pingxiang Rural Commercial Bank ,广西凭祥农村商业银行,B494,5
+495,"Guangxi Hezhou Guidong Rural Cooperative 
+Bank",广西贺州桂东农村合作银行,B495,4
+496,Tiandong Beibu Gulf County Bank,田东北部湾村镇银行,B496,3
+497,Pingguo Guomin County Bank,平果国民村镇银行,B497,3
+498,Lingshan Taiye Village Bank ,灵山泰业村镇银行,B498,3
+499,Nanning Jiangnan National Rural Bank,南宁江南国民村镇银行,B499,3
+500,Guilin National Village Bank,桂林国民村镇银行,B500,3
+501,Hainan Rural Credit Union,海南省农村信用社联合社,B501,6
+502,Haikou United Rural Commercial Bank ,海口联合农村商业银行,B502,5
+503,Haikou Rural Commercial Bank,海口农村商业银行,B503,5
+504,Sanya Rural Commercial Bank,三亚农村商业银行,B504,5
+505,Haikou Rural Credit Cooperatives Union,海口市农村信用合作联社,B505,6
+506,"Danzhou Country Rural Credit 
+Cooperatives Union",儋州市农村信用合作联社,B506,6
+507,Haikou Sunan Mintai County Bank,海口苏南村镇银行,B507,3
+508,Xingfu County Bank,兴福村镇银行,B508,3
+509,Chongqing Nanchuan Shiyin County Bank ,重庆南川石银村镇银行,B509,3
+510,Chongqing Qianjiang Yinzuo Rural Bank ,重庆黔江银座村镇银行,B510,3
+511,Chongqing Jiangbei Hengfeng Village Bank,重庆江北恒丰村镇银行,B511,3
+512,"Chongqing Yubei Yinzuo Rural Bank Co.，
+Ltd",重庆渝北银座村镇银行,B512,3
+513,Qijiang Minsheng Village Bank,綦江民生村镇银行,B513,3
+514,Chongqing Dazu Hsbc Rural Bank ,重庆大足汇丰村镇银行,B514,3
+515,"Tongnan Minsheng Rural Banking Corp.,Ltd.",潼南民生村镇银行,B515,3
+516,Chongqing Rural Commercial Bank ,重庆农村商业银行,B516,5
+517,Dazhou Rural Commercial Bank ,达州农村商业银行,B517,5
+518,Leshan Sanjiang Rural Commercial Bank ,乐山三江农村商业银行,B518,5
+519,Luzhou Rural Commercial Bank ,泸州农村商业银行,B519,5
+520,Sichuan Hejiang Rural Commercial Bank ,四川合江农村商业银行,B520,5
+521,Mianyang Rural Commercial Bank,绵阳农村商业银行,B521,5
+522,Sichuan Langzhong Rural Commercial Bank ,四川阆中农村商业银行,B522,5
+523,Panzhihua Rural Commercial Bank,攀枝花农村商业银行,B523,5
+524,Yaan Rural Commercial Bank ,雅安农村商业银行,B524,5
+525,Chengdu Rural Commercial Bank,成都农村商业银行,B525,5
+526,Sichuan Rural Credit Cooperatives Association,四川省农村信用社联合社,B526,6
+527,Cangxi County Benefit People Rural Fund Mutual Aid,苍溪县益民农村资金互助社,B527,7
+528,Dayi Bocom Xingmin Rural Bank ,大邑交银兴民村镇银行,B528,3
+529,Dujiangyan Jindu County Bank ,都江堰金都村镇银行,B529,3
+530,Jin Tang Huijin Rural Bank ,金堂汇金村镇银行,B530,3
+531,Pengzhou Minsheng Rural Bank,彭州民生村镇银行,B531,3
+532,Xindu Guicheng Rural Bank ,新都桂城村镇银行,B532,3
+533,Qionglai Guomin County Bank ,邛崃国民村镇银行,B533,3
+534,Xinjin Zhujiang Rural Bank,新津珠江村镇银行,B534,3
+535,Xuanhan Chengmin Village Bank,宣汉诚民村镇银行,B535,3
+536,Shifang Siyuan Village Bank,什邡思源村镇银行,B536,3
+537,Guang’An Evergrowing Rurai Bank ,广安恒丰村镇银行,B537,3
+538,Guishang County Bank of Guang Yuan City ,广元市贵商村镇银行,B538,3
+539,Renshou Minfu Village Bank,仁寿民富村镇银行,B539,3
+540,Sichuan Beichuan Qiang Autonomous County Fumin Village Bank,四川北川羌族自治县富民村镇银行,B540,3
+541,Sichuan Yilong Huimin Rural Bank,四川仪陇惠民村镇银行,B541,3
+542,Ziyang Minsheng Rural Bank,资阳民生村镇银行,B542,3
+543,Guiyang Rural Commercial Bank,贵阳农村商业银行,B543,5
+544,Huaxi Rural Commercial Bank,贵州花溪农村商业银行,B544,5
+545,Guizhou Qingzhen Rural Commercial Bank ,贵州清镇农村商业银行,B545,5
+546,Guizhou Wudang Rural Commercial Bank ,贵州乌当农村商业银行,B546,5
+547,Bijie Rural Development Bank,毕节发展村镇银行,B547,3
+548,Xingyi Wanfeng Village Bank,兴义万丰村镇银行,B548,3
+549,Guizhou Rural Credit Cooperatives Association,贵州省农村信用社联合社,B549,6
+550,Yunnan Rural Credit Cooperatives Association,云南省农村信用社联合社,B550,6
+551,Kunming Rural Credit Cooperatives Association,昆明市农村信用合作社联合社,B551,6
+552,Kunming Guandu Rural Cooperative Bank,昆明官渡农村合作银行,B552,4
+553,Yunnan Wenshan Rural Commercial Bank ,云南文山市农村商业银行,B553,5
+554,Yunnan Xiangyun Rural Commercial Bank ,云南祥云农村商业银行,B554,5
+555,Yunnan Binchuan Rural Commercial Bank ,云南宾川农村商业银行,B555,5
+556,Yunnan Jianchuan Rural Commercial Bank ,云南剑川农村商业银行,B556,5
+557,Zhaotong Zhaoyang Fudian Village Bank,昭通昭阳富滇村镇银行,B557,3
+558,Qujing Fuyuan Fudian Rural Bank Liability Company,曲靖富源富滇村镇银行,B558,3
+559,Lufeng Longcheng Fudian Village Bank,禄丰龙城富滇村镇银行,B559,3
+560,Kunming Chenggong Huaxia Village Bank,昆明呈贡华夏村镇银行,B560,3
+561,Yunnan Xishan Beiyin Village Bank,云南西山北银村镇银行,B561,3
+562,Shaanxi Qinnong Rural Commercial Bank,陕西秦农农村商业银行,B562,5
+563,Shaanxi Yulin Yuyang Rural Commercial Bank ,陕西榆林农村商业银行,B563,5
+564,Shaanxi Rural Credit Union,陕西省农村信用社联合社,B564,6
+565,Xi’An Chang'An Rural Credit Union,西安市长安区农村信用合作联社,B565,6
+566,Xi 'An Gaoling Sunshine Village Bank,西安高陵阳光村镇银行,B566,3
+567,Zhidan Minsheng Rural Bank,志丹民生村镇银行,B567,3
+568,Ansai Rural Village Bank,安塞农银村镇银行,B568,3
+569,Gansu Province Rural Credit Cooperatives Association,甘肃省农村信用社联合社,B569,6
+570,Lanzhou Rural Commercial Bank,兰州农村商业银行,B570,5
+571,Gansu Yuzhong Rural Cooperative Bank,甘肃榆中农村合作银行,B571,4
+572,Yuzhong Pufa Village Bank,榆中浦发村镇银行,B572,3
+573,Huining Huishi Village & Township  Bank  ,会宁会师村镇银行,B573,3
+574,Qingyang Xifeng Credit Suisse Rural Bank,庆阳市西峰瑞信村镇银行,B574,3
+575,Longnan Wudu Rural Cooperative Bank,陇南武都农村合作银行,B575,4
+576,Longnan Wudu Jinqiao Village Bank,陇南市武都金桥村镇银行,B576,3
+577,Qinghai Province Rural Credit Union,青海省农村信用社联合社,B577,6
+578,Qinghai Haidong Rural Commercial Bank ,青海海东农村商业银行,B578,5
+579,Ningxia Yellow River  Rural Commercial Bank,宁夏黄河农村商业银行,B579,5
+580,Ning Xia Zhongning Qingyin Rural Bank,宁夏中宁青银村镇银行,B580,3
+581,Longde Liupanshan Rural Bank ,隆德六盘山村镇银行,B581,3
+582,Ningxia Tongxin Jinhui County Bank ,宁夏同心津汇村镇银行,B582,3
+583,Binhe County Bank of Wuzhong,吴忠市滨河村镇银行,B583,3
+584,Xinjiang Tianshan Rural Commercial Bank ,新疆天山农村商业银行,B584,5
+585,Xinjiang Changji Rural Commercial Bank ,新疆昌吉农村商业银行,B585,5
+586,Xinjiang Shihezi Rural Cooperative Bank,新疆石河子农村合作银行,B586,4
+587,Xinjiang Rural Credit Cooperatives Association,新疆维吾尔自治区农村信用社联合社,B587,6
+588,Tacheng Kunlun Rural Bank,塔城昆仑村镇银行,B588,3
+589,Yuli Daxi Jiyin County Bank Company,尉犁达西冀银村镇银行,B589,3
+590,Shihezi Guomin County Bank,石河子国民村镇银行,B590,3
+591,Xinjiang Shihezi Bocom Rural Bank,新疆石河子交银村镇银行,B591,3
+592,Xinjiang Oasis Guomin County Bank ,新疆绿洲国民村镇银行,B592,3
+593,Kuche Guomin County Bank,库车国民村镇银行,B593,3
+594,Wujiaqu National Village Bank,五家渠国民村镇银行,B594,3
+595,Changji City Yushugou Town of Rural Mutual Funds Association,昌吉市榆树沟镇民心农村资金互助社,B595,7
+596,Dalian Rural Commercial Bank ,大连农村商业银行,B596,5
+597,Zhuanghe Hui Tong Rural Commercial Bank ,庄河汇通村镇银行,B597,3
+598,Ningbo Cixi Rural Commercial Bank,宁波慈溪农村商业银行,B598,5
+599,Ningbo Yinzhou Rural Commercial Bank,宁波鄞州农村商业银行,B599,5
+600,Ninghai Boc Fullerton Community Bank ,宁海中银富登村镇银行,B600,3
+601,Cixi Minsheng Rural Bank,慈溪民生村镇银行,B601,3
+602,Xiangshan National Village Bank,象山国民村镇银行,B602,3
+603,Xiamen Rural Commercial Bank ,厦门农村商业银行,B603,5
+604,Qingdao Rural Commercial Bank ,青岛农村商业银行,B604,5
+605,Qingdao Laoshan Bocom Rural Bank,青岛崂山交银村镇银行,B605,3
+606,Qingdao Laixiyuantai Town Bank,青岛莱西元泰村镇银行,B606,3
+607,Qingdao Pingdu Huimin Village Bank ,青岛平度惠民村镇银行,B607,3
+608,Shenzhen Rural Commercial Bank,深圳农村商业银行,B608,5
+609,Shenzhen Longgang Everdynasty Rural Bank,深圳龙岗鼎业村镇银行,B609,3
+610,Shenzhen Futian Yinzuo Rural Bank ,深圳福田银座村镇银行,B610,3
+611,Shenzhen Nanshan Baosheng County Bank ,深圳南山宝生村镇银行,B611,3
+612,Linzhi Minsheng Rural Banking Corporation ,林芝民生村镇银行,B612,3
+613,Hsbc Bank (China),汇丰银行（中国）,B613,8
+614,The Bank of East Asia (China) ,东亚银行（中国）,B614,8
+615,Nanyang Commercial Bank (China),南洋商业银行（中国）,B615,8
+616,Hang Seng Bank (China) ,恒生银行（中国）,B616,8
+617,Citic Bank International (China),中信银行国际（中国）,B617,8
+618,Dah Sing Bank (China) ,大新银行（中国）,B618,8
+619,Ocbc Wing Hang Bank (China),华侨永亨银行（中国）,B619,8
+620,Chinese Mercantile Bank,华商银行,B620,8
+621,Keb Hana Bank (China),韩亚银行（中国）,B621,8
+622,Shinhan Bank （China） ,新韩银行（中国）,B622,8
+623,Woori Bank （China） ,友利银行（中国）,B623,8
+624,Industrial Bank of Korea (China) ,企业银行（中国）,B624,8
+625,United Overseas Bank (China) ,大华银行（中国）,B625,8
+626,Dbs Bank (China) ,星展银行（中国）,B626,8
+627,Mizuho Bank (China),瑞穗银行（中国）,B627,8
+628,Sumitomo Mitsui Banking Corporation (China) ,三井住友银行（中国）,B628,8
+629,Mufg Bank (China),三菱日联银行（中国）,B629,8
+630,Metropolitan Bank (China),首都银行（中国）,B630,8
+631,Allied Commercial Bank,新联商业银行,B631,8
+632,Bangkok Bank (China),盘谷银行（中国）,B632,8
+633,Zheng Xin Bank ,正信银行,B633,8
+634,Bank Sinopac (China),永丰银行（中国）,B634,8
+635,Australia and New Zealand Bank (China) ,澳大利亚和新西兰银行（中国）,B635,8
+636,Bnp Paribas (China) ,法国巴黎银行（中国）,B636,8
+637,Societe Generale (China),法国兴业银行（中国）,B637,8
+638,Credit Agricole Corporate and Investment Bank (China) ,东方汇理银行（中国）,B638,8
+639,Standard Chartered Bank (China) ,渣打银行（中国）,B639,8
+640,Deutsche Bank (China) ,德意志银行（中国）,B640,8
+641,Ubs (China) ,瑞士银行（中国）,B641,8
+642,Citibank (China) ,花旗银行（中国）,B642,8
+643,Jpmorgan Chase Bank (China),摩根大通银行（中国）,B643,8
+644,Bank of Montreal (China),蒙特利尔银行（中国）,B644,8
+645,Fubon Bank (China) ,富邦华一银行,B645,8
+646,Spd Silicon Valley Bank ,浦发硅谷银行,B646,8
+647,Kasikornbank (China),开泰银行（中国）,B647,8
+648,Cathay United Bank (China),国泰世华银行（中国）,B648,8
+649,Shenzhen Commercial Bank,深圳市商业银行,B649,2
+650,Shenzhen Development Bank,深圳发展银行,B650,2
+651,Changchun Commercial Bank,长春市商业银行,B651,2
+652,Jilin Commercial Bank,吉林市商业银行,B652,2
+653,Qiqihar Commercial Bank,齐齐哈尔市商业银行,B653,2
+654,Mudanjiang Commercial Bank,牡丹江市商业银行,B654,2
+655,Daqing Commercial Bank,大庆市商业银行,B655,2
+656,Nantong Commercial Bank,南通市商业银行,B656,2
+657,Suzhou Commercial Bank,苏州市商业银行,B657,2
+658,Yangzhou Commercial Bank,扬州市商业银行,B658,2
+659,Wuxi Commercial Bank,无锡市商业银行,B659,2
+660,Yancheng Commercial Bank,盐城市商业银行,B660,2
+661,Changzhou Commercial Bank,常州市商业银行,B661,2
+662,Zhenjiang Commercial Bank,镇江市商业银行,B662,2
+663,Xuzhou Commercial Bank,徐州市商业银行,B663,2
+664,Huai 'An Commercial Bank,淮安市商业银行,B664,2
+665,Lianyungang Commercial Bank,连云港市商业银行,B665,2
+666,Hefei Commercial Bank,合肥市商业银行,B666,2
+667,Wuhu Commercial Bank,芜湖市商业银行,B667,2
+668,Anqing Commercial Bank,安庆市商业银行,B668,2
+669,Huaibei Commercial Bank,淮北市商业银行,B669,2
+670,Bengbu Commercial Bank,蚌埠市商业银行,B670,2
+671,Nanchang Bank,南昌银行,B671,2
+672,Jingdezhen Commercial Bank,景德镇市商业银行,B672,2
+673,Kaifeng Bank,开封银行,B673,2
+674,Anyang Bank,安阳银行,B674,2
+675,Hebi Bank,鹤壁银行,B675,2
+676,Xinxiang Bank,新乡银行,B676,2
+677,Puyang Bank,濮阳银行,B677,2
+678,Xuchang Bank,许昌银行,B678,2
+679,Luo River Bank,漯河银行,B679,2
+680,Sanmenxia Bank,三门峡银行,B680,2
+681,Nanyang Bank,南阳银行,B681,2
+682,Shangqiu Bank,商丘银行,B682,2
+683,Xinyang Bank,信阳银行,B683,2
+684,Zhoukou Bank,周口银行,B684,2
+685,Zhumadian Bank,驻马店银行,B685,2
+686,Huangshi Bank,黄石银行,B686,2
+687,Yichang Commercial Bank,宜昌市商业银行,B687,2
+688,Xiangfan Commercial Bank,襄樊市商业银行,B688,2
+689,Jingzhou Commercial Bank,荆州市商业银行,B689,2
+690,Xiaogan Commercial Bank,孝感市商业银行,B690,2
+691,Zunyi Commercial Bank,遵义市商业银行,B691,2
+692,Liupanshui Commercial Bank,六盘水市商业银行,B692,2
+693,Anshun Commercial Bank,安顺市商业银行,B693,2
+694,Baoji Commercial Bank,宝鸡市商业银行,B694,2
+695,Xianyang Commercial Bank,咸阳市商业银行,B695,2
+696,Pingliang Commercial Bank,平凉市商业银行,B696,2
+697,Baiyin Commercial Bank,白银市商业银行,B697,2
+698,Ningbo International Bank,宁波国际银行,B698,8
+699,Ocbc Bank (China),华侨银行（中国）,B699,8
+700,Wing Hang Bank (China),永亨银行（中国）,B700,8
+701,Shaanxi Yulin Yuyang Rural Commercial Bank,榆阳农村商业银行,B701,5
+702,Hengshan Rural Commercial Bank,横山农村商业银行,B702,5
+703,Panzhihua City Commercial Bank,攀枝花市商业银行,B703,2
+704,Liangshan Prefectural Commercial Bank,凉山州商业银行,B704,2
+705,Xuzhou Tongshan Rural Commercial Bank,徐州铜山农村商业银行,B705,5
+706,Datong Bank,大同银行,B706,2
+707,Changzhi Bank,长治银行,B707,2
+708,Jincheng Bank ,晋城银行,B708,2
+709,Jinzhong Bank,晋中银行,B709,2
+710,Yangquan City Commercial Bank,阳泉市商业银行,B710,2
