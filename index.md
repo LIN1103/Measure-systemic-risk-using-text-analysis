@@ -6,13 +6,7 @@
 
 **Bank network in China in 2021.** 
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./Figure_5.png" width = "75%" alt=""/>
-</center>
-
-[Click here to download Figure 5.](./Figure_5.png)
+![Click here to download Figure 5.](./Figure_5.png)
 
 ### Figure 6
 
@@ -20,23 +14,11 @@
 
 #### a. 2000-2013
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./Figure_6a.png" width = "75%" alt=""/>
-</center>
-
-[Click here to download Figure 6a.](./Figure_6a.png)
+![Click here to download Figure 6.a.](./Figure_6a.png)
 
 #### b. 2014-2021
 
-<center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    src="./Figure_6b.png" width = "75%" alt=""/>
-</center>
-
-[Click here to download Figure 6b.](./Figure_6b.png)
+![Click here to download Figure 6.b.](./Figure_6b.png)
 
 ### Table 1 
 
