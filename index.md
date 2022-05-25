@@ -6,7 +6,7 @@
 
 **Bank network in China in 2021.** 
 
-![Click here to download Figure 5.](./Figure_5.png)
+[Click here to download Figure 5.](./Figure_5.png)
 
 ### Figure 6
 
@@ -14,11 +14,11 @@
 
 #### a. 2000-2013
 
-![Click here to download Figure 6.a.](./Figure_6a.png)
+[Click here to download Figure 6.a.](./Figure_6a.png)
 
 #### b. 2014-2021
 
-![Click here to download Figure 6.b.](./Figure_6b.png)
+[Click here to download Figure 6.b.](./Figure_6b.png)
 
 ### Table 1 
 
