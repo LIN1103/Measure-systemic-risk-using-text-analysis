@@ -1,4 +1,4 @@
-# Appendix - Measure systemic risk using text analysis: Evidence from Chinese banks
+# Appendix - Measure systemic risk using textual analysis: Evidence from Chinese banks
 
 *Yi Fang,  Hao Lin,  Liping Lu*
 
