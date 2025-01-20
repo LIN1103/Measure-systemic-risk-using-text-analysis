@@ -43,3 +43,9 @@
 <div style="text-align:justify;text-justify:inter-ideograph"> Note: In column "type", "0" represents "state-owned bank", "1" represents "joint stock bank", "2" represents "city commercial bank", "3" represents "village bank", "4" represents "rural cooperative bank", "5" represents "rural commercial bank", "6" represents "rural credit cooperative", "7" represents "rural fund mutual cooperative", "8" represents "foreign bank" and "9" represents "private bank". </div>
 
 [Click here to download Table 2.](./Appendix_B.csv)
+
+## Table 3
+
+**A list of the media outlets used in the study (categorized by type)**
+
+[Click here to download Table 3.](./Appendix_Media_List.xlsx)
