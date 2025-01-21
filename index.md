@@ -48,4 +48,3 @@
 
 **A list of the media outlets used in the study (categorized by type)**
 
-[Click here to download Table 3.](./Appendix_Media_List.xlsx)
